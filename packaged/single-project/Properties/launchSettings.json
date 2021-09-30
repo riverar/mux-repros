@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "single-project": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
